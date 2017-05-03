@@ -13,8 +13,8 @@ class Sum
 	}
 }
 
-$sosi = new Sum();
-$a = $sosi->aplusb(1,1);
+$sum = new Sum();
+$ab = $sum->aplusb(1,1);
 //echo $a;
 
 /**
